@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\source\snack\snack\source.cpp(44): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+d:\source\snack\snack\source.cpp(222): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Snack.vcxproj -> D:\source\Snack\Debug\Snack.exe
